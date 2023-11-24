@@ -7,11 +7,11 @@ const element = (
       <img
         className="img"
         src="https://assets.ccbp.in/frontend/react-js/rcb-img.png"
-      ></img>
+      />
       <img
         className="img"
         src="https://assets.ccbp.in/frontend/react-js/csk-img.png"
-      ></img>
+      />
     </div>
   </div>
 );
